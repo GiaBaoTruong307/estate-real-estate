@@ -35,7 +35,7 @@ const Testimonials = () => {
             <h2 className="text-xl font-medium text-gray-700">{testimonial.name}</h2>
             <p className="mb-4 text-sm text-gray-500">{testimonial.title}</p>
             <div className="mb-3 flex justify-center gap-1 text-red-500">
-              {Array.from({ length: testimonial.rating }, (item, index) => (
+              {Array.from({ length: testimonial.rating }, (_, index) => (
                 <img key={index} src={assets.star_icon} alt="" />
               ))}
             </div>

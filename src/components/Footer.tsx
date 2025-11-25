@@ -7,9 +7,10 @@ const Footer = () => {
         <div className="mb-8 w-full md:mb-0 md:w-1/3">
           <img src={assets.logo_dark} alt="" />
           <p className="mt-4 text-gray-400">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque laudantium eos earum
-            placeat similique odio enim consequatur, voluptate eaque qui doloremque, animi tempore
-            ut cum iste expedita inventore. Mollitia, nesciunt?
+            We deliver modern, reliable, and thoughtfully designed properties that reflect both
+            comfort and lasting value. Our team focuses on every detail to ensure each estate
+            becomes a place you can truly call home—functional, elegant, and built to stand the test
+            of time.
           </p>
         </div>
         <div className="mb-8 w-full md:mb-0 md:w-1/5">

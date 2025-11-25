@@ -79,7 +79,7 @@ export const testimonialsData = [
     image: profile_img_1,
     alt: 'Portrait of Donald Jackman',
     rating: 5,
-    text: 'From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.',
+    text: 'The team made the entire process incredibly smooth. They took the time to truly understand what I needed and presented options that matched perfectly. Their professionalism and genuine care for clients set them apart from any other agency I’ve worked with.',
   },
   {
     name: 'Richard Nelson',
@@ -87,7 +87,7 @@ export const testimonialsData = [
     image: profile_img_2,
     alt: 'Portrait of Richard Nelson',
     rating: 4,
-    text: 'From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.',
+    text: 'I was amazed by how attentive they were from day one. They guided me through each step and ensured I felt confident in every decision. Their dedication to quality and transparency gave me absolute peace of mind throughout the journey.',
   },
   {
     name: 'James Washington',
@@ -95,6 +95,6 @@ export const testimonialsData = [
     image: profile_img_3,
     alt: 'Portrait of James Washington',
     rating: 5,
-    text: 'From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.',
+    text: 'Working with them was a remarkable experience. They combined expertise with great communication, making the search for the right property effortless. Their commitment to delivering the best for their clients is truly commendable.',
   },
 ]

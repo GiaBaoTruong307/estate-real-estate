@@ -42,9 +42,10 @@ const About = () => {
             </div>
           </div>
           <p className="my-10 max-w-lg">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam amet, autem deleniti
-            molestias eveniet esse laborum architecto molestiae eligendi totam magnam excepturi
-            alias inventore illo enim necessitatibus praesentium nobis iusto.
+            We are committed to shaping modern living spaces that blend innovation, functionality,
+            and aesthetic excellence. With a passion for architectural precision and a focus on
+            long-term value, we transform ideas into inspiring structures. Every project reflects
+            our dedication to quality, trust, and a vision that always puts our clients first.
           </p>
           <button className="rounded bg-blue-600 px-8 py-2 text-white">Learn more</button>
         </div>
